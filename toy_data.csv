@@ -1,0 +1,197 @@
+from,value,to
+Caribbean,14,Caribbean
+Central America,44,Caribbean
+Eastern & South-Eastern Asia,0,Caribbean
+Eastern Europe,5,Caribbean
+Northern Africa,0,Caribbean
+Northern America,162,Caribbean
+Northern & Western Europe,14,Caribbean
+Oceania,0,Caribbean
+South America,0,Caribbean
+Southern Europe,0,Caribbean
+Western and Middle Africa,0,Caribbean
+Western Asia,0,Caribbean
+Western Balkans,0,Caribbean
+Rest of the world,0,Caribbean
+Caribbean,0,Central America
+Central America,337,Central America
+Eastern & South-Eastern Asia,0,Central America
+Eastern Europe,0,Central America
+Northern Africa,0,Central America
+Northern America,3729,Central America
+Northern & Western Europe,0,Central America
+Oceania,0,Central America
+South America,0,Central America
+Southern Europe,457,Central America
+Western and Middle Africa,0,Central America
+Western Asia,0,Central America
+Western Balkans,0,Central America
+Rest of the world,0,Central America
+Caribbean,0,E. & SE Asia
+Central America,0,E. & SE Asia
+Eastern & South-Eastern Asia,23,E. & SE Asia
+Eastern Europe,0,E. & SE Asia
+Northern Africa,0,E. & SE Asia
+Northern America,77,E. & SE Asia
+Northern & Western Europe,16,E. & SE Asia
+Oceania,0,E. & SE Asia
+South America,0,E. & SE Asia
+Southern Europe,0,E. & SE Asia
+Western and Middle Africa,0,E. & SE Asia
+Western Asia,0,E. & SE Asia
+Western Balkans,0,E. & SE Asia
+Rest of the world,0,E. & SE Asia
+Caribbean,0,Eastern Europe
+Central America,0,Eastern Europe
+Southern Europe,0,Eastern Europe
+Eastern Europe,9,Eastern Europe
+Northern Africa,0,Eastern Europe
+Northern America,16,Eastern Europe
+Northern & Western Europe,66,Eastern Europe
+Oceania,0,Eastern Europe
+South America,0,Eastern Europe
+Southern Europe,11,Eastern Europe
+Western and Middle Africa,0,Eastern Europe
+Western Asia,0,Eastern Europe
+Western Balkans,0,Eastern Europe
+Rest of the world,0,Eastern Europe
+Caribbean,0,North Africa
+Central America,0,North Africa
+Eastern & South-Eastern Asia,0,North Africa
+Eastern Europe,0,North Africa
+Northern Africa,19,North Africa
+Northern America,0,North Africa
+Northern & Western Europe,23,North Africa
+Oceania,0,North Africa
+South America,0,North Africa
+Southern Europe,0,North Africa
+Western and Middle Africa,6,North Africa
+Western Asia,17,North Africa
+Western Balkans,0,North Africa
+Rest of the world,16,North Africa
+Caribbean,21,North America
+Central America,477,North America
+Eastern & South-Eastern Asia,10,North America
+Eastern Europe,70,North America
+Northern Africa,0,North America
+Northern America,255,North America
+Northern & Western Europe,12,North America
+Oceania,0,North America
+South America,9,North America
+Southern Europe,9,North America
+Western and Middle Africa,12,North America
+Western Asia,8,North America
+Western Balkans,9,North America
+Rest of the world,0,North America
+Caribbean,0,N. & W. Europe
+Central America,0,N. & W. Europe
+Eastern & South-Eastern Asia,0,N. & W. Europe
+Eastern Europe,2,N. & W. Europe
+Northern Africa,0,N. & W. Europe
+Northern America,2,N. & W. Europe
+Northern & Western Europe,66,N. & W. Europe
+Oceania,0,N. & W. Europe
+South America,0,N. & W. Europe
+Southern Europe,0,N. & W. Europe
+Western and Middle Africa,0,N. & W. Europe
+Western Asia,15,N. & W. Europe
+Western Balkans,4,N. & W. Europe
+Rest of the world,0,N. & W. Europe
+Caribbean,0,Oceania
+Central America,0,Oceania
+Eastern & South-Eastern Asia,14,Oceania
+Eastern Europe,0,Oceania
+Northern Africa,0,Oceania
+Northern America,16,Oceania
+Northern & Western Europe,16,Oceania
+Oceania,0,Oceania
+South America,0,Oceania
+Southern Europe,0,Oceania
+Western and Middle Africa,0,Oceania
+Western Asia,16,Oceania
+Western Balkans,0,Oceania
+Rest of the world,0,Oceania
+Caribbean,0,South America
+Central America,0,South America
+Eastern & South-Eastern Asia,0,South America
+Eastern Europe,0,South America
+Northern Africa,0,South America
+Northern America,588,South America
+Northern & Western Europe,48,South America
+Oceania,0,South America
+South America,1123,South America
+Southern Europe,12,South America
+Western and Middle Africa,0,South America
+Western Asia,9,South America
+Western Balkans,0,South America
+Rest of the world,0,South America
+Caribbean,0,Southern Europe
+Central America,0,Southern Europe
+Eastern & South-Eastern Asia,0,Southern Europe
+Eastern Europe,17,Southern Europe
+Northern Africa,0,Southern Europe
+Northern America,0,Southern Europe
+Northern & Western Europe,4,Southern Europe
+Oceania,0,Southern Europe
+South America,0,Southern Europe
+Southern Europe,0,Southern Europe
+Western and Middle Africa,0,Southern Europe
+Western Asia,4,Southern Europe
+Western Balkans,17,Southern Europe
+Rest of the world,0,Southern Europe
+Caribbean,0,W. & Middle Africa
+Central America,0,W. & Middle Africa
+Eastern & South-Eastern Asia,0,W. & Middle Africa
+Eastern Europe,0,W. & Middle Africa
+Northern Africa,0,W. & Middle Africa
+Northern America,0,W. & Middle Africa
+Northern & Western Europe,2,W. & Middle Africa
+Oceania,0,W. & Middle Africa
+South America,0,W. & Middle Africa
+Southern Europe,0,W. & Middle Africa
+Western and Middle Africa,1,W. & Middle Africa
+Western Asia,11,W. & Middle Africa
+Western Balkans,0,W. & Middle Africa
+Rest of the world,0,W. & Middle Africa
+Caribbean,0,West Asia
+Central America,0,West Asia
+Eastern & South-Eastern Asia,36,West Asia
+Eastern Europe,0,West Asia
+Northern Africa,9,West Asia
+Northern America,777,West Asia
+Northern & Western Europe,44,West Asia
+Oceania,1,West Asia
+South America,0,West Asia
+Southern Europe,0,West Asia
+Western and Middle Africa,0,West Asia
+Western Asia,1645,West Asia
+Western Balkans,0,West Asia
+Rest of the world,186,West Asia
+Caribbean,0,Western Balkans
+Central America,0,Western Balkans
+Eastern & South-Eastern Asia,0,Western Balkans
+Eastern Europe,0,Western Balkans
+Northern Africa,0,Western Balkans
+Northern America,0,Western Balkans
+Northern & Western Europe,2,Western Balkans
+Oceania,0,Western Balkans
+South America,0,Western Balkans
+Southern Europe,0,Western Balkans
+Western and Middle Africa,0,Western Balkans
+Western Asia,4,Western Balkans
+Western Balkans,4,Western Balkans
+Rest of the world,0,Western Balkans
+Caribbean,0,Rest of the world
+Central America,0,Rest of the world
+Eastern & South-Eastern Asia,0,Rest of the world
+Eastern Europe,0,Rest of the world
+Northern Africa,0,Rest of the world
+Northern America,0,Rest of the world
+Northern & Western Europe,0,Rest of the world
+Oceania,0,Rest of the world
+South America,0,Rest of the world
+Southern Europe,0,Rest of the world
+Western and Middle Africa,0,Rest of the world
+Western Asia,0,Rest of the world
+Western Balkans,0,Rest of the world
+Rest of the world,0,Rest of the world
